@@ -6,7 +6,7 @@ body:
 - type: input
   attributes:
     label: DiveControl Version
-    description: What version of Derin Diver are you using?
+    description: What version of Dive Control are you using?
     placeholder: 0.1.1-Beta
   validations:
     required: true
